@@ -1,0 +1,17 @@
+{
+  "name": "genpark-chaitin-briggs-graph-coloring-allocator-skill",
+  "version": "1.0.0",
+  "description": "Chaitin-Briggs graph coloring register allocator constructing interference matrices, Kempe node simplifications, and register assignments.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "chaitin-briggs",
+    "graph-coloring",
+    "register-allocation",
+    "compiler-backend",
+    "interference-graph"
+  ],
+  "dependencies": []
+}
